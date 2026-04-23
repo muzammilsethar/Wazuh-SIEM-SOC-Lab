@@ -16,21 +16,5 @@ This project demonstrates the hands-on deployment of an open-source **Security O
 2. **Automated Deployment:** Utilized the Wazuh installation assistant to deploy the full stack (Indexer, Server, Dashboard).
 3. **Service Verification:** Verified the status of `wazuh-manager` and `wazuh-indexer` backend services.
 4. **Security Testing:** Validated **File Integrity Monitoring (FIM)** using `syscheckd` to monitor unauthorized changes in critical system directories.
-
-## 📁 Lab Artifacts & Verification
-*(See screenshots below for implementation proof)*
-
-### 1. Successful Installation
-![Installation Success](./screenshots/install_success.png)
-*Description: Completion of the automated Wazuh installation script.*
-
-### 2. Service Status (Backend Check)
-![Service Status](./screenshots/service_status.png)
-*Description: Verifying that the Wazuh Manager is Active and Running.*
-
-### 3. Wazuh Dashboard
-![Dashboard](./screenshots/dashboard.png)
-*Description: Successful access to the web-based SIEM interface.*
-
 ---
 **Contact:** https://www.linkedin.com/in/muzammil-sethar/
